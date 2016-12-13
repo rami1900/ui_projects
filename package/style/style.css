@@ -17,3 +17,17 @@ color:pink;
 #secondspan{
     color: purple;
 }
+th{
+  background-color:black;
+    color: white;
+text-transform: uppercase;
+cursor: pointer;
+}
+th:hover{
+    background-color:red;
+    column-rule-color:green;
+}
+ table,tr,td {
+     border: solid 1px;
+    
+}
