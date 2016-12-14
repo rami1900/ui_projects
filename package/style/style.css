@@ -8,7 +8,7 @@ span:hover{
     color: red;
 }
 #firstspan{
-color:pink;    
+color:pink;     
 }
 .group{
     color:#FFFF00;
@@ -28,6 +28,6 @@ th:hover{
     column-rule-color:green;
 }
  table,tr,td {
-     border: solid 1px;
-    
+     border: solid 2px;
+    font-size: 50px;
 }
